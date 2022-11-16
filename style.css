@@ -1,0 +1,26 @@
+body {
+    background-color: cadetblue;
+}
+h2 {
+color: rgb(253, 253, 169);
+text-align: center;
+}
+.chapter{
+    color: rgb(238, 171, 147);
+}
+.text {
+    font-weight: 700;
+}
+h1 {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+nav {
+    color: darkolivegreen;
+    text-align: center;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration:underline;
+}
